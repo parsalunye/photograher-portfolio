@@ -1,5 +1,10 @@
 .sidebar{
-  width:37%;
+  width:55%;
   float:left;
   background-color: green;
+}
+.img{
+  float: right;
+  width: 350
+  height:400
 }
